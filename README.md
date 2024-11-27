@@ -1,2 +1,2 @@
 # Codando
-Cases e projetinhos 
+Diretório de códigos e projetos
